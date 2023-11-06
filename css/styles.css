@@ -49,6 +49,12 @@ a:focus {
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
 }
+h3{
+    font-size: 23px;
+}
+h4{
+    font-size: 25px;
+}
 
 .sombra{
     text-shadow: black 1px 1px 5px;
@@ -237,7 +243,7 @@ header {
     color: #fff;
     width: 100%;
     background-color: #a74444;
-    background-image: url(../assets/principal1.jpg);
+    background-image: url(../assets/principal2.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
