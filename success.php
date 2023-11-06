@@ -82,7 +82,7 @@
   <div class="wrapper">
     <div class="profile-card">
       <div class="profile-card__img">
-        <img src="assets/resul2.png" alt="profile card">
+        <img src="assets/meli.png" alt="profile card">
       </div>
 
       <div class="profile-card__cnt">

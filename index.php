@@ -201,9 +201,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center">
-          <h2 class="margin-top-0 wow fadeIn">Confirma tu participación</h2>
+          <h2 class="margin-top-0 wow fadeIn">Deja un poco de amor por aquí</h2>
           <hr class="primary">
-          <p>Por favor, ingresa tus datos si estarás presente en mi fiesta, también puedes sugerir una canción y dedicarme unas palabras si lo deseas.</p>
+          <p>Firma mi libro de invitados virtual ingresando tus datos, también puedes sugerir una canción para que la bailemos y dedicarme un mensaje de corazón para Mis Quince.</p>
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
           <form method="post" action="saveConfirmation.php" class="contact-form row">
